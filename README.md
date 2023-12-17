@@ -1,6 +1,8 @@
 # Documentation
 Explicitly creating a network is necessary for intercommunication between MPI nodes by hostname.
 
+The built image is available at: https://hub.docker.com/r/cemti/mpi-node
+
 ## Create a network
     docker network create mpi-net
 
